@@ -1,7 +1,8 @@
 # Dog-Breed-Clasifier
-Deep Convolutional Neural Networks  - Transfer Learning...Built an algorithm to identify canine breed given an image of a dog. If given image of a human, the algorithm identifies a resembling dog breed.
 
-## Running (Linux/Mac/ + git + conda)
+In this project, we will learn how to build a pipeline to process real-world, user-supplied images. Given an image of a dog, our algorithm will identify an estimate of the canine’s breed. If supplied an image of a human, the code will identify the resembling dog breed.
+
+# Running (Linux/Mac/ + git + conda)
 
 If you want to run the notebook on your own (using anaconda)
 
@@ -13,4 +14,13 @@ If you want to run the notebook on your own (using anaconda)
     conda install numpy matplotlib pandas jupyter notebook
     jupyter notebook Dog-Breed-Clasifier.ipynb
     
-The notebook is also rendered by github, so you can simply click on the file Your_first_neural_network.ipynb here and you will see my results.
+# More useful resources
+
+https://www.kaggle.com/c/imagenet-object-detection-challenge
+https://www.kaggle.com/c/imagenet-object-detection-from-video-challenge
+https://www.kaggle.com/c/nips-2017-defense-against-adversarial-attack
+https://medium.com/towards-data-science/transfer-learning-using-keras-d804b2e04ef8
+http://cs231n.github.io/transfer-learning/
+http://www.slate.com/articles/technology/future_tense/2016/04/the_philosophical_argument_against_artificial_intelligence_killing_us_all.html
+http://www.robots.ox.ac.uk/~vgg/publications/2015/Parkhi15/parkhi15.pdf
+
